@@ -1,1 +1,12 @@
-body {background:brown};
+body {background:#fcc5cb}
+img {max-width: 30%;
+}
+
+h1, body, p {text-align:center;
+font-family:"Dosis", sans-serif;
+font-weight:400;
+}
+
+h1 {margin-top:20px;}
+p {margin: 10px 400px;}
+.chocolate-croissant {margin:30px;}
